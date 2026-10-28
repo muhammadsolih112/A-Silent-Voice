@@ -1,0 +1,9 @@
+A SILENT VOICE — NETLIFY
+
+1. ZIP faylni oching.
+2. Netlify Drop orqali joylash: ichidagi dist papkasini Netlify Drop oynasiga olib boring. ZIPning o‘zini emas, dist papkasini yuklang.
+3. Git orqali joylash: loyihaning hamma fayllarini repoga yuklang. Build command: npm run build. Publish directory: dist. Node: 22.
+4. Mahalliy ishga tushirish: npm install, keyin npm run dev.
+
+React manba kodi src/ ichida. Video, rasmlar va kursor public/assets/ ichida.
+4K video asl 720p fayldan kattalashtirilgan. Fon qo‘shig‘i brauzer ruxsat bersa avtomatik yoqiladi, aks holda Ovozni yoqish tugmasini bosing.
