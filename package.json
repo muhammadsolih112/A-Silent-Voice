@@ -1,1 +1,1 @@
-{"name":"silent-voice-anime","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"react":"19.1.0","react-dom":"19.1.0"},"devDependencies":{"vite":"6.3.5"}}
+{"name":"silent-voice-anime","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"@netlify/blobs":"^11.1.7","react":"19.1.0","react-dom":"19.1.0"},"devDependencies":{"vite":"6.3.5"}}
